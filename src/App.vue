@@ -2,7 +2,7 @@
 import Terminal from './components/Terminal.vue';
 </script>
 <template>
-    <div class="w-full h-screen bg-custom-dark">
+    <div class="w-full h-screen bg-custom-brown">
         <Terminal></Terminal> 
     </div>
 </template>
