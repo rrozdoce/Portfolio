@@ -5,6 +5,10 @@ export default {
     extend: {
       colors: {
         'custom-dark': '#2B1B1B',
+        'custom-gray': '#363434',
+      },
+      fontFamily: {
+        'Inconsolata': ['Inconsolata', 'sans-serif'],
       },
     },
   },

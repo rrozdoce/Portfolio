@@ -1,14 +1,10 @@
 <script setup lang="ts">
-import Terminal from './components/Terminal.vue'
+import Terminal from './components/Terminal.vue';
 </script>
-
-<template >
-    <Terminal></Terminal>
+<template>
+    <div class="w-full h-screen bg-custom-dark">
+        <Terminal></Terminal> 
+    </div>
 </template>
-
 <style scoped>
-html, body, #app {
-  height: 100%;
-  margin: 0;
-}
 </style>
